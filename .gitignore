@@ -1,0 +1,8 @@
+# Finder metadata
+.DS_Store
+
+# Xcode stuff
+xcuserdata/
+
+# The OpenCV framework exceeds GitHub's 100 MB size limit
+opencv2.framework/
